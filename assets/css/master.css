@@ -1,0 +1,9 @@
+.ticket{
+  text-align: center;
+  width: 50%;
+  margin: 200px auto;
+  padding: 10px 20px;
+  color: black;
+  border: 3px solid darkgrey;
+
+}
